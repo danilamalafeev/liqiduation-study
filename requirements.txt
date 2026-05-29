@@ -1,0 +1,9 @@
+polars
+pyarrow
+numpy
+pandas
+scikit-learn
+matplotlib
+nbformat
+nbclient
+ipykernel
